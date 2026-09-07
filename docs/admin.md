@@ -16,6 +16,7 @@ Reloads plugin configuration files and caches without restarting the server.
 `Permission: 1b1v.admin.notice`
 
 ---
+<br>
 
 ```text
 Brushes
@@ -24,10 +25,16 @@ Brushes
 1b1v.brush.crystal
 <br>
 
+---
+<br>
+
 ```text
 Masks
 ```
 1b1v.mask.around
+<br>
+
+---
 <br>
 
 ```text
@@ -36,6 +43,9 @@ Patterns
 1b1v.pattern.flowers <br>
 1b1v.pattern.grass <br>
 1b1v.pattern.ridgedmulti
+<br>
+
+---
 <br>
 
 ```text
@@ -47,6 +57,9 @@ Commands
 1b1v.selection.centervertical <br>
 1b1v.selection.onion <br>
 1b1v.curve.liana
+
+---
+<br>
 
 ```text
 Basic
