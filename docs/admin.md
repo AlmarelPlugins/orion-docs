@@ -63,7 +63,7 @@ Commands
 Basic
 ```
 
-`1b1v.use <br>`
-`1b1v.admin.notice <br>`
-`1b1v.admin <br>`
-`1b1v.wiki <br>`
+`1b1v.use` <br>
+`1b1v.admin.notice` <br>
+`1b1v.admin` <br>
+`1b1v.wiki` <br>
