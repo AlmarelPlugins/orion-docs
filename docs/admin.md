@@ -2,8 +2,6 @@
 ---
 Administrative commands and permission nodes for 1b1v.
 
-## Commands
-
 Reloads plugin configuration files and caches without restarting the server.
 ```text
 /1b1v reload
@@ -65,7 +63,7 @@ Commands
 Basic
 ```
 
-1b1v.use <br>
-1b1v.admin.notice <br>
-1b1v.admin <br>
-1b1v.wiki <br>
+`1b1v.use <br>`
+`1b1v.admin.notice <br>`
+`1b1v.admin <br>`
+`1b1v.wiki <br>`

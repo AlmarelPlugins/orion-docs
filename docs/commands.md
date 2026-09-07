@@ -74,3 +74,15 @@ Generates a hanging liana or vine, where the curvature is determined by the sagg
 
 ![Liana Command](images/commands/liana.png)
 `Permission: 1b1v.curve.liana`
+
+---
+<br>
+
+Wiki
+Provides a link to the documentation plugin.
+
+```text
+//1b1v wiki
+```
+
+`Permission: 1b1v.wiki`
