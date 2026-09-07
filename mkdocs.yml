@@ -38,7 +38,7 @@ nav:
   - Masks: masks.md
   - Patterns: patterns.md
   - Commands: commands.md
-  - Permissions: admin.md
+  - Admin: admin.md
 
 markdown_extensions:
   - attr_list
