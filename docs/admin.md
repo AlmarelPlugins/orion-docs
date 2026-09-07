@@ -15,6 +15,8 @@ Reloads plugin configuration files and caches without restarting the server.
 ```
 `Permission: 1b1v.admin.notice`
 
+---
+
 ```text
 Brushes
 ```
