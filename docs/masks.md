@@ -9,4 +9,4 @@ This is a highly convenient and more controllable alternative to the native FAWE
 ```
 
 ![Around Mask](images/masks/around.png)
-`Permissions: orion.mask.around`
+`Permissions: 1b1v.mask.around`
