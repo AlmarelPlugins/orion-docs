@@ -8,7 +8,7 @@ Creates a polygon with a specified number of sides. The default value is 8.
 ```
 
 ![Polygon Command](images/commands/polygon.png)
-`Permission: orion.selection.polygon`
+`Permission: 1b1v.selection.polygon`
 
 ---
 <br>
@@ -21,7 +21,7 @@ Creates a wireframe outline along the borders of the selection.
 ```
 
 ![Frame Command](images/commands/frame.png)
-`Permission: orion.selection.frame`
+`Permission: 1b1v.selection.frame`
 
 ---
 <br>
@@ -34,7 +34,7 @@ Generates a flat horizontal platform within the selection.
 ```
 
 ![Frame Command](images/commands/platform.png)
-`Permission: orion.selection.platform`
+`Permission: 1b1v.selection.platform`
 
 ---
 <br>
@@ -47,7 +47,7 @@ Finds the center of the selection and creates a vertical 1-block column from the
 ```
 
 ![Frame Command](images/commands/centervertical.png)
-`Permission: orion.selection.centervertical`
+`Permission: 1b1v.selection.centervertical`
 
 ---
 <br>
@@ -60,7 +60,7 @@ Creates an onion-shaped dome or organic structure inside the selection.
 ```
 
 ![Onion Command](images/commands/onion.png)
-`Permission: orion.selection.onion`
+`Permission: 1b1v.selection.onion`
 
 ---
 <br>
@@ -73,4 +73,4 @@ Generates a hanging liana or vine, where the curvature is determined by the sagg
 ```
 
 ![Liana Command](images/commands/liana.png)
-`Permission: orion.selection.liana`
+`Permission: 1b1v.curve.liana`
